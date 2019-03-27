@@ -4,3 +4,4 @@ This folder contains the slides.
 * [Experiment Session](Practical+Deep+Learning_+Experiments.pdf)
 * [CNN Architecture Design & Search](architecture%202019.pdf)
 * [Introduction to Computation Technologies in Deep Learning](dl-comp-tech(1).pdf)
+* [Neural Network Approximation](Neural Network Approximation.pdf)
