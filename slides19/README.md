@@ -3,3 +3,4 @@ This folder contains the slides.
 * [Practical Methodology in Deep Learning](Practical+Methodology+in+Deep+Learning(1).pdf)
 * [Experiment Session](Practical+Deep+Learning_+Experiments.pdf)
 * [CNN Architecture Design & Search](architecture%202019.pdf)
+* [Introduction to Computation Technologies in Deep Learning](dl-comp-tech(1).pdf)
