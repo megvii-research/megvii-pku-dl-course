@@ -5,3 +5,4 @@ This folder contains the slides.
 * [CNN Architecture Design & Search](architecture%202019.pdf)
 * [Introduction to Computation Technologies in Deep Learning](dl-comp-tech(1).pdf)
 * [Neural Network Approximation](Neural%20Network%20Approximation.pdf)
+* [Object Detection](Object%20Detection_pku_2019.4.3.pdf)
