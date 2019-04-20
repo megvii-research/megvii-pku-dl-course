@@ -1,4 +1,5 @@
 This folder contains the slides.
+* [Introduction to Computer Vision and Deep Learning](https://github.com/zsc/megvii-pku-dl-course/blob/master/slides/Lecture1(Intro%20of%20CV%20and%20DL)_novideo.pdf)
 * [Neural Network Basics and Backpropagation](network+basics+2019.pdf)
 * [Practical Methodology in Deep Learning](Practical+Methodology+in+Deep+Learning(1).pdf)
 * [Experiment Session](Practical+Deep+Learning_+Experiments.pdf)
