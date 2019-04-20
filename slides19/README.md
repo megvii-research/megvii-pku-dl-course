@@ -8,3 +8,4 @@ This folder contains the slides.
 * [Object Detection](Object%20Detection_pku_2019.4.3.pdf)
 * [Sequence Modeling](Sequence%20Modeling%202019-04.pdf)
 * [Generative Models](Lecture%2010%20Introduction%20to%20Generative%20Models.pdf)
+* [Computational Photography](Computational%20Photography%20Talk.pdf)
