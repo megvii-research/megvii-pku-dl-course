@@ -7,3 +7,4 @@ This folder contains the slides.
 * [Neural Network Approximation](Neural%20Network%20Approximation.pdf)
 * [Object Detection](Object%20Detection_pku_2019.4.3.pdf)
 * [Sequence Modeling](Sequence%20Modeling%202019-04.pdf)
+* [Generative Models](Lecture%2010%20Introduction%20to%20Generative%20Models.pdf)
