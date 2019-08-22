@@ -2,7 +2,7 @@
 Homepage for the joint course of Megvii Inc. and Peking University on Deep Learning.
 ## Spring 2019
 * [Introduction to Computer Vision and Deep Learning](https://github.com/zsc/megvii-pku-dl-course/blob/master/slides/Lecture1(Intro%20of%20CV%20and%20DL)_novideo.pdf)
-* [Neural Network Basics and Backpropagation](network+basics+2019.pdf)
+* [Neural Network Basics and Backpropagation](slides19/network+basics+2019.pdf)
 * [Practical Methodology in Deep Learning](Practical+Methodology+in+Deep+Learning(1).pdf)
 * [Experiment Session](Practical+Deep+Learning_+Experiments.pdf)
 * [CNN Architecture Design & Search](architecture%202019.pdf)
