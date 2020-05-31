@@ -17,4 +17,4 @@ Homepage for the joint course of Megvii Inc. and Peking University on Deep Learn
 ## [Fall 2017](slides)
 
 # Homeworks
-https://github.com/PeiqinSun/tf-tutorials
+https://github.com/megvii-research/tf-tutorials
