@@ -11,3 +11,4 @@
 
 ### Model download  
 [goodle drive](https://drive.google.com/file/d/1iz7VdDxM7-Wb-RCdKXyire4aEew5TkVB/view?usp=sharing)
+[百度云盘-提取码-g5bg](https://pan.baidu.com/s/1O-tyMYyDLVFLDuBsKDKHog)
