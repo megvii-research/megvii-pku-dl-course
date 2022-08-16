@@ -1,6 +1,10 @@
 # megvii-pku-dl-course
 Homepage for the joint course of Megvii Inc. and Peking University on Deep Learning.
 
+## After 2019
+* Mini-course at Tsinghua: https://github.com/megvii-research/megvii-tsinghua-dl-course
+* (Chinese) Course on NeRF, Quantized Neural Network etc.! Check this out: https://github.com/megvii-research/introduction-neural-3d-reconstruction
+
 ## Spring 2019
 * [Introduction to Computer Vision and Deep Learning](https://github.com/megvii-research/megvii-pku-dl-course/blob/master/slides/Lecture1(Intro%20of%20CV%20and%20DL)_novideo.pdf)
 * [Neural Network Basics and Backpropagation](https://github.com/megvii-research/megvii-pku-dl-course/blob/master/slides19/network%2Bbasics%2B2019.pdf)
@@ -19,8 +23,3 @@ Homepage for the joint course of Megvii Inc. and Peking University on Deep Learn
 
 # Homeworks
 https://github.com/megvii-research/tf-tutorials
-
-# More
-* A course on NeRF, SDF etc.! Check this out: https://github.com/megvii-research/introduction-neural-3d-reconstruction
-* Course at Tsinghua: https://github.com/megvii-research/megvii-tsinghua-dl-course
-
